@@ -15,7 +15,11 @@ public void deposit() {
 
 System.out.println("135%");
 }
+public static void main(String[] args) {
+	Systesout.println("125%$");
+	System.out.println("125%$");
 
+}
 
 
 }

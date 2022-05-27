@@ -13,6 +13,11 @@ a.fixed();
 a.deposit();
 a.savings();
 
+System.out.println("125%$");
+System.out.println("125%$");
+System.out.println("125%$");
+System.out.println("125%$");
+System.out.println("125%$");
 
 }
 }
